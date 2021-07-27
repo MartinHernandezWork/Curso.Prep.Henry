@@ -300,7 +300,7 @@ function esVocal(letra){
   else{
 
     return "Dato incorrecto";
-    
+
   }
 
 }
