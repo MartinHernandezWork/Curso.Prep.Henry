@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(https://lh3.googleusercontent.com/qI8aO0afdanjPZBY1EGrkPFnStQ9usIjg0Zs8fQwAB4lc3Wxzfl_uRF2v2Dl56W4v8Ae8wWDKsK_XaeRLGSrdS4xCfZdLh5trD_SarVa4py8pUokF1vdtviD1JW-7ugELELdeAIturWS-lV2XDgi3yUh1RlQ_VsDQDQK4tWKHaMVBEGlHYl_BBffqUVPEU4yrUo_xPIahCzOmRM654THhBV9TEwnTdeu_b-k2ahN4cM9JvKJaKghhkfS6dyqBiMitPb9Zbl-I8eC-_6t8KQRtZC_hlrM9aiJAz3YDRh6hueE8CZUl2LsmuNWd52i_wueWXlDwhOUXDC4C5gtFvVbMT4Q_VKVTeldrWSlt6eHZoyYde8FM40aM-DpdjydMBIlq0t4rKKb2TwxlIi4dk3xO8ZeGqCkgkjx6WrNudo_Hry6UBt7XdAPktCvxoYcAp1faTLJyvz67A14OpShyWfSzZHBavRlTEBz4HhFHSGxkSdgkpzs4e9aBqZtJjBLHVHNoMrcsp-L6MnkKsN-DZIG_UtSE6pZ2KC557sq4hZqPvVfZCH9LCZjfgxhY0fmv_izCsDv2Ou2qJryJgXnJ7GrRIm4UNSl775i9kmx2DuxqKmcNzn__Wv1SZrFv_jTDICsqtzalZz_dyehiQyOcK9bo-C6epZEJtkRbalSB-3Nag7b2y3xlbRrh9I6Lk2voJWarabMUIeqBbn1-4GOSvh4cw7e=w1024-h768-no?authuser=1);
+    background-size: 50% 50%;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'VT323', monospace;
+}
+
+#Titulo{
+    font-family: 'Press Start 2P', cursive;
+    width: 30%;
+    margin: 50px 35%;
+    border: 12px inset #1c87c9;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    color: white;
+    background: #d83f87;
+}
+
+#Foto{
+    margin: 50px 35%;
+    text-align: center;
+    vertical-align: middle;
+    width: 650px;
+    padding: 5px;
+    border: 12px #1c87c9;
+    border-style: inset;
+    background-color: #eee;
+}
+
+#DescripciónPersonal,#Educación,#ExperienciasLaborales,#Skills,#Hobbies,#Espectativas{
+    width: 50%;
+    margin: 20px 25%;
+    border: 12px outset white;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    color: white;
+    background: #d83f87;
+    
+}
